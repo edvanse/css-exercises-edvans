@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odd {
+   background-color:rgb(211, 133, 133);
+   font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.middle-size {
+    font-size:24px;
+}
+#mark {
+    background-color:hsla(120, 50%, 70%, 0.7);
+    font-weight: bold;
+}
+#kevin {
+    color:rgba(0, 0, 255, 0.5);
+    font-size: 36px;
+}
